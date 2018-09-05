@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "64550563068",
+    "firebase_url": "https://pressboxlaundry-1c051.firebaseio.com",
+    "project_id": "pressboxlaundry-1c051",
+    "storage_bucket": "pressboxlaundry-1c051.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64550563068:android:0341cb5c07594081",
+        "android_client_info": {
+          "package_name": "com.mico.collegelaundry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64550563068-gll15ga2m7cjb7qnghcmpdkolkrhg8ep.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mico.collegelaundry",
+            "certificate_hash": "78f04975bfb75bb77c5313fd6fcabe5335eb32f2"
+          }
+        },
+        {
+          "client_id": "64550563068-dpolietm1qnhftui0k6tj9d1hukaprc2.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "64550563068-dpolietm1qnhftui0k6tj9d1hukaprc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXHtHTmzWmhqBiYDCDvO7MZbcPenYokf8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64550563068-dpolietm1qnhftui0k6tj9d1hukaprc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

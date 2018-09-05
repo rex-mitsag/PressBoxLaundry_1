@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/profile" android:title="@string/profile"
+        android:onClick="showProfile_func"/>
+    <item android:id="@+id/clothes" android:title="@string/cloth_count"
+        android:onClick="showClothes_func"/>
+   <item android:id="@+id/setting" android:title="@string/setting"
+        android:onClick="settings_func"/>
+    <item android:id="@+id/about" android:title="@string/about"
+        android:onClick="about_func"/>
+    <item android:id="@+id/logout" android:title="@string/logout"
+        android:onClick="Logout_func"/>
+
+</menu>
